@@ -133,6 +133,7 @@ nav img {display: none;}
 	text-align: left;
 	position: absolute;
 	z-index: 2;
+	border-radius:15px;
 	}
 	.header nav:hover ul {display: block;}
 	nav li {display: block;
